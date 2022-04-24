@@ -31,7 +31,7 @@ class RadioGroup<T> extends StatelessWidget {
     required this.itemBuilder,
     this.direction = Axis.vertical,
     required this.spacebetween,
-    this.horizontalAlignment = MainAxisAlignment.spaceBetween,
+  //  this.horizontalAlignment = MainAxisAlignment.spaceBetween,
     this.activeColor,
     this.textStyle,
   });
